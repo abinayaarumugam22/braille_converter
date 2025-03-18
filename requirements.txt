@@ -121,7 +121,6 @@ python-docx==1.1.2
 python-json-logger==3.2.1
 pyttsx3==2.98
 pytz==2025.1
-pywin32==308
 pywinpty==2.0.14
 pyxnat==1.6.3
 PyYAML==6.0.2
